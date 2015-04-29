@@ -1,5 +1,5 @@
 
- * Upgrade support to OpenCV 3.0.0-beta
+ * Upgrade support to OpenCV 3.0.0-rc1
  * Switch descriptor used by `ObjectFinder` from SURF to AKAZE
  * Add the ability to specify from which video and audio streams `FFmpegFrameGrabber` should grab from ([issue #135](https://github.com/bytedeco/javacv/issues/135))
  * Fix `Java2DFrameConverter` when used with `BufferedImage.TYPE_INT_RGB` or other types based on `int`
